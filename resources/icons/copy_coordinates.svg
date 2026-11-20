@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <!-- Derived from QGIS default theme; CC-BY-SA-3.0. See QGIS_ICONS_LICENSE.txt for sources, attribution and modifications. -->
+  <g transform="translate(0.2 -0.2) scale(0.84)">
+    <g opacity=".5" transform="translate(2 -10)">
+      <path d="m6.5 27.5v-15h7l4 4v11z" fill="#fff" fill-rule="evenodd" stroke="#5b5b5c" stroke-linejoin="round" />
+      <path d="m13.5 12.5v4h4z" fill="#f0f0f0" fill-rule="evenodd" stroke="#5b5b5c" stroke-linejoin="round" />
+      <g fill="none">
+        <path d="m8 17.5h6.5" stroke="#969696" />
+        <path d="m8 19.5h7.5" stroke="#969696" />
+        <path d="m8 21.5h5" stroke="#6a6a6a" />
+        <path d="m8 23.5h7" stroke="#969696" />
+        <path d="m8 25.5h7" stroke="#969696" />
+      </g>
+    </g>
+    <g transform="translate(-2 -6)">
+      <path d="m6.5 27.5v-15h7l4 4v11z" fill="#fff" fill-rule="evenodd" stroke="#5b5b5c" stroke-linejoin="round" />
+      <path d="m13.5 12.5v4h4z" fill="#f0f0f0" fill-rule="evenodd" stroke="#5b5b5c" stroke-linejoin="round" />
+      <g fill="none" stroke="#969696">
+        <path d="m8 17.5h6.5" />
+        <path d="m8 19.5h7.5" />
+        <path d="m8 21.5h5" />
+        <path d="m8 23.5h7" />
+        <path d="m8 25.5h7" />
+      </g>
+    </g>
+  </g>
+  <g transform="translate(5.07794 23) scale(0.004208984375 -0.004208984375)" fill="#555555" stroke="#555555" stroke-width="93.8468677494">
+    <path d="M1206 0H901L616 494L332 0H27L465 758L39 1493H344L616 1018L889 1493H1194L770 758Z" transform="translate(0 0)" />
+    <path d="M8 1493H326L616 893L907 1493H1225L764 588V0H469V588Z" transform="translate(1233 0)" />
+    <path d="M137 1493H1147V1249L455 260H1161V0H115V244L786 1233H137Z" transform="translate(2466 0)" />
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+[general]
+name=UA Geocoder
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+version=0.1.0.51
+changelog=Search results are displayed as map highlights in the address and feature search modes.
+author=UA Geocoder contributors
+email=
+description=Address search, feature search and reverse geocoding.
+description[uk]=Пошук адрес і об’єктів, зворотне геокодування.
+about=Provides an address Locator similar to Nominatim, as well as address and feature search. Uses map data © JSC Visicom. A Visicom API key is required.
+about[uk]=Адресний Locator аналогічний Nominatim, пошук адрес та об’єктів. Використовуються картографічні дані © АТ «Візіком». Для роботи потрібен ключ Visicom API. 
+category=Web
+icon=resources/icon.svg
+experimental=False
+deprecated=False
+hasProcessingProvider=False
+tags=address,geocoding,search,Ukraine,Visicom

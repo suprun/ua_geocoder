@@ -1,0 +1,52 @@
+QGIS-derived copy icons
+=======================
+
+Files: copy_address.svg, copy_coordinates.svg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC-BY-SA-3.0)
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+
+Source project: QGIS, default theme, release-3_28 (installed QGIS 3.28.2).
+Source icons:
+https://github.com/qgis/QGIS/blob/release-3_28/images/themes/default/mActionEditCopy.svg
+https://github.com/qgis/QGIS/blob/release-3_28/images/themes/default/algorithms/mAlgorithmSelectLocation.svg
+https://github.com/qgis/QGIS/blob/release-3_28/images/themes/default/mIconVertexCoordinates.svg
+Source license:
+https://github.com/qgis/QGIS/blob/master/images/themes/default/LICENSE.TXT
+
+Modifications: copy_address.svg combines the copy sheets with the location
+marker only; copy_coordinates.svg combines scaled copy sheets with the XYZ
+text only, outlined using DejaVu Sans Mono Bold to avoid runtime font
+dependencies. Changes by Visicom Data API for QGIS contributors, 2026.
+These derivative SVGs are distributed under CC-BY-SA-3.0. The plugin's own
+Python code remains under its existing MIT license.
+
+Original QGIS theme license notice
+----------------------------------
+Original GIS icons theme was created by Robert Szczepanek [1] and is licensed
+under a Creative Commons Attribution-Share Alike 3.0 Unported License [2].
+
+Feel free to use it for GIS software or for any other purposes. I only ask
+you to let me know about that and to include licence.txt file in your work.
+
+TITLE: gis-0.2
+DESCRIPTION: GIS icon theme
+AUTHOR: Robert Szczepanek, Anita Graser
+CONTACT: robert at szczepanek pl
+SITE: http://robert.szczepanek.pl/
+
+ACKNOWLEDGEMENTS
+OSGeo community [3] helped in whole design process.
+Especially I want to acknowledge GRASS and QGIS team members for creative
+comments and support:
+Martin Landa
+Michael Barton
+Tim Sutton
+Borys Jurgiel
+
+Robert Szczepanek
+Cracow 2011
+Poland
+
+[1] http://robert.szczepanek.pl/
+[2] http://creativecommons.org/licenses/by-sa/3.0/
+[3] http://www.osgeo.org/

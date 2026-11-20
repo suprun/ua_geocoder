@@ -1,0 +1,1344 @@
+{
+  "source": "https://api.visicom.ua/data-api/5.0/uk/categories",
+  "retrieved": "2026-11-14",
+  "categories": [
+    {
+      "id": "poi_it_servis",
+      "name": "IT-послуги",
+      "singlename": "IT-послуги",
+      "keywords": ""
+    },
+    {
+      "id": "poi_cemetery",
+      "name": "Цвинтар",
+      "singlename": "Цвинтар",
+      "keywords": ""
+    },
+    {
+      "id": "poi_prisions",
+      "name": "Місця позбавлення волі",
+      "singlename": "Місця позбавлення волі",
+      "keywords": ""
+    },
+    {
+      "id": "poi_notaries_public",
+      "name": "Нотаріальні, юридичні послуги",
+      "singlename": "Нотаріальні, юридичні  послуги",
+      "keywords": ""
+    },
+    {
+      "id": "poi_exhibition_center",
+      "name": "Виставкові центри",
+      "singlename": "Виставковий центр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_autopilot_services",
+      "name": "Автопілот",
+      "singlename": "Автопілот",
+      "keywords": ""
+    },
+    {
+      "id": "poi_dry_cleaner_laundry",
+      "name": "Хімчистки, пральні",
+      "singlename": "Хімчистка, пральня",
+      "keywords": ""
+    },
+    {
+      "id": "poi_insurance_company",
+      "name": "Страхові компанії",
+      "singlename": "Страхова компанія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_taxi_service",
+      "name": "Таксі",
+      "singlename": "Таксі",
+      "keywords": ""
+    },
+    {
+      "id": "poi_automotive_shop",
+      "name": "Автомагазини",
+      "singlename": "Автомагазин",
+      "keywords": ""
+    },
+    {
+      "id": "poi_grocery",
+      "name": "Продуктові",
+      "singlename": "Продуктовий",
+      "keywords": ""
+    },
+    {
+      "id": "poi_optics",
+      "name": "Оптика",
+      "singlename": "Оптика",
+      "keywords": ""
+    },
+    {
+      "id": "poi_aquaparks",
+      "name": "Аквапарки",
+      "singlename": "Аквапарк",
+      "keywords": ""
+    },
+    {
+      "id": "poi_veterinarians",
+      "name": "Ветеринарія",
+      "singlename": "Ветеринарія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_business_centre",
+      "name": "Бізнес-центри",
+      "singlename": "Бізнес-центр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_preschool_establishment",
+      "name": "Дошкільні установи",
+      "singlename": "Дитяча дошкільна установа",
+      "keywords": ""
+    },
+    {
+      "id": "poi_library",
+      "name": "Бібліотеки",
+      "singlename": "Бібліотека",
+      "keywords": ""
+    },
+    {
+      "id": "poi_botanic_garden",
+      "name": "Ботанічні сади",
+      "singlename": "Ботанічний сад",
+      "keywords": ""
+    },
+    {
+      "id": "poi_casino",
+      "name": "Казино",
+      "singlename": "Казино",
+      "keywords": ""
+    },
+    {
+      "id": "poi_swimming_pool",
+      "name": "Басейни",
+      "singlename": "Басейн",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sports_complexe",
+      "name": "Спорткомлекси",
+      "singlename": "Спорткомлекс",
+      "keywords": ""
+    },
+    {
+      "id": "poi_inquiry_service",
+      "name": "Довідкові служби",
+      "singlename": "Довідкова служба",
+      "keywords": ""
+    },
+    {
+      "id": "poi_paintball_lazer_shooting",
+      "name": "Пейнтбол, лазерна стрільба",
+      "singlename": "Пейнтбол, лазерна стрільба",
+      "keywords": ""
+    },
+    {
+      "id": "poi_horse_riding",
+      "name": "Верхова їзда",
+      "singlename": "Верхова їзда",
+      "keywords": ""
+    },
+    {
+      "id": "poi_monument_of_architecture_and_town_planning",
+      "name": "Пам'ятники архітектури та містобудування",
+      "singlename": "Пам'ятник архітектури та містобудування",
+      "keywords": ""
+    },
+    {
+      "id": "poi_monument_of_science",
+      "name": "Пам'ятники науки та техніки",
+      "singlename": "Пам'ятник науки та техніки",
+      "keywords": ""
+    },
+    {
+      "id": "poi_enterprise_organisation",
+      "name": "Підприємства, організації",
+      "singlename": "Підприємство, організація",
+      "keywords": ""
+    },
+    {
+      "id": "poi_ferry",
+      "name": "Пороми",
+      "singlename": "Пором",
+      "keywords": ""
+    },
+    {
+      "id": "poi_airport",
+      "name": "Аеропорти",
+      "singlename": "Аеропорт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_bus_station",
+      "name": "Автовокзали",
+      "singlename": "Автовокзал",
+      "keywords": ""
+    },
+    {
+      "id": "poi_railway_station",
+      "name": "Залізничні вокзали",
+      "singlename": "Залізничний вокзал",
+      "keywords": ""
+    },
+    {
+      "id": "poi_river_station",
+      "name": "Річкові вокзали",
+      "singlename": "Річковий вокзал",
+      "keywords": ""
+    },
+    {
+      "id": "poi_port",
+      "name": "Порти",
+      "singlename": "Порт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_rescue_services",
+      "name": "Рятувальні служби",
+      "singlename": "Рятувальна служба",
+      "keywords": ""
+    },
+    {
+      "id": "poi_funicular",
+      "name": "Фунікулери",
+      "singlename": "Фунікулери",
+      "keywords": ""
+    },
+    {
+      "id": "poi_translation_bureaus",
+      "name": "Бюро перекладів",
+      "singlename": "Бюро перекладів",
+      "keywords": ""
+    },
+    {
+      "id": "poi_cash_desk",
+      "name": "Каси",
+      "singlename": "Каса",
+      "keywords": ""
+    },
+    {
+      "id": "poi_automobile_sales_centre",
+      "name": "Автосалони",
+      "singlename": "Автосалон",
+      "keywords": ""
+    },
+    {
+      "id": "poi_parking",
+      "name": "Автостоянки",
+      "singlename": "Автостоянка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_car_rental",
+      "name": "Прокат авто",
+      "singlename": "Прокат авто",
+      "keywords": ""
+    },
+    {
+      "id": "poi_driving_school",
+      "name": "Автошколи",
+      "singlename": "Автошкола",
+      "keywords": ""
+    },
+    {
+      "id": "poi_post_office",
+      "name": "Пошта",
+      "singlename": "Пошта",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tyre_fitting_shop",
+      "name": "Шиномонтаж",
+      "singlename": "Шиномонтаж",
+      "keywords": ""
+    },
+    {
+      "id": "poi_furniture",
+      "name": "Меблі",
+      "singlename": "Меблі",
+      "keywords": ""
+    },
+    {
+      "id": "poi_car_service_station",
+      "name": "СТО",
+      "singlename": "СТО",
+      "keywords": ""
+    },
+    {
+      "id": "poi_other_service",
+      "name": "Інші послуги",
+      "singlename": "Інші послуги",
+      "keywords": ""
+    },
+    {
+      "id": "poi_atm",
+      "name": "Банкомати",
+      "singlename": "Банкомат",
+      "keywords": ""
+    },
+    {
+      "id": "poi_workshop",
+      "name": "Ательє",
+      "singlename": "Ательє",
+      "keywords": ""
+    },
+    {
+      "id": "poi_car_wash",
+      "name": "Автомийки",
+      "singlename": "Автомийка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_car_evacuation_service",
+      "name": "Автоевакуатори",
+      "singlename": "Автоевакуатори",
+      "keywords": ""
+    },
+    {
+      "id": "poi_bank",
+      "name": "Банки",
+      "singlename": "Банк",
+      "keywords": ""
+    },
+    {
+      "id": "poi_confectionery",
+      "name": "Кондитерські",
+      "singlename": "Кондитерська",
+      "keywords": ""
+    },
+    {
+      "id": "poi_everything_for_holiday",
+      "name": "Все для свята",
+      "singlename": "Все для свята",
+      "keywords": ""
+    },
+    {
+      "id": "poi_express_mail",
+      "name": "Експрес-пошта",
+      "singlename": "Експрес-пошта",
+      "keywords": ""
+    },
+    {
+      "id": "poi_restaurant",
+      "name": "Ресторани",
+      "singlename": "Ресторан",
+      "keywords": "еда їжа, страви food"
+    },
+    {
+      "id": "poi_public_amenities_center",
+      "name": "Будинки побуту",
+      "singlename": "Будинок побуту",
+      "keywords": ""
+    },
+    {
+      "id": "poi_delivery",
+      "name": "Доставка",
+      "singlename": "Доставка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_repair_shop",
+      "name": "Ремонтні майстерні",
+      "singlename": "Ремонтна майстерня",
+      "keywords": ""
+    },
+    {
+      "id": "poi_wi_fi",
+      "name": "Wi-Fi",
+      "singlename": "Wi-Fi",
+      "keywords": ""
+    },
+    {
+      "id": "poi_payment_terminal",
+      "name": "Термінали до сплати",
+      "singlename": "Термінал до сплати",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sauna",
+      "name": "Сауни, лазні",
+      "singlename": "Сауна, лазня",
+      "keywords": ""
+    },
+    {
+      "id": "poi_beauty_shop_spa",
+      "name": "Салони краси, СПА",
+      "singlename": "Салон краси, СПА",
+      "keywords": ""
+    },
+    {
+      "id": "poi_wc",
+      "name": "Туалети",
+      "singlename": "Туалет",
+      "keywords": ""
+    },
+    {
+      "id": "poi_work_of_art",
+      "name": "Арт галереї",
+      "singlename": "Арт галерея",
+      "keywords": ""
+    },
+    {
+      "id": "poi_antiques",
+      "name": "Антикваріат",
+      "singlename": "Антикваріат",
+      "keywords": ""
+    },
+    {
+      "id": "poi_concert_hall",
+      "name": "Концертні зали",
+      "singlename": "Концертний зал",
+      "keywords": ""
+    },
+    {
+      "id": "poi_museum_gallery",
+      "name": "Музеї, галереї",
+      "singlename": "Музей, галерея",
+      "keywords": ""
+    },
+    {
+      "id": "poi_theater",
+      "name": "Театри",
+      "singlename": "Театр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_houshold_appliances_and_electronics",
+      "name": "Побутова техніка та електроніка",
+      "singlename": "Побутова техніка та електроніка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_goods_for_children",
+      "name": "Товари для дітей",
+      "singlename": "Товари для дітей",
+      "keywords": ""
+    },
+    {
+      "id": "poi_clothes_and_accessories",
+      "name": "Ткани и фурнитура",
+      "singlename": "Ткани и фурнитура",
+      "keywords": ""
+    },
+    {
+      "id": "poi_household_textile",
+      "name": "Домашній текстиль",
+      "singlename": "Домашній текстиль",
+      "keywords": ""
+    },
+    {
+      "id": "poi_clothes",
+      "name": "Одяг",
+      "singlename": "Одяг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_shoe_shop",
+      "name": "Взуття",
+      "singlename": "Взуття",
+      "keywords": ""
+    },
+    {
+      "id": "poi_parfumes_and_houshold_chemicals",
+      "name": "Парфумерія та побутова хімія",
+      "singlename": "Парфумерія та побутова хімія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_jewelry_shop",
+      "name": "Ювелірні",
+      "singlename": "Ювелірний",
+      "keywords": ""
+    },
+    {
+      "id": "poi_college",
+      "name": "Коледжі",
+      "singlename": "Коледж",
+      "keywords": ""
+    },
+    {
+      "id": "poi_embassy",
+      "name": "Посольства",
+      "singlename": "Посольство",
+      "keywords": ""
+    },
+    {
+      "id": "poi_fruit_and_vegetable_store",
+      "name": "Сад та город",
+      "singlename": "Сад та город",
+      "keywords": ""
+    },
+    {
+      "id": "poi_shopping_centre",
+      "name": "Торгові центри",
+      "singlename": "Торговий центр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_building_materials",
+      "name": "Будматеріали",
+      "singlename": "Будматеріали",
+      "keywords": ""
+    },
+    {
+      "id": "poi_shop",
+      "name": "Магазини різні",
+      "singlename": "Магазин",
+      "keywords": ""
+    },
+    {
+      "id": "poi_civil_registry_office",
+      "name": "РАЦСи",
+      "singlename": "РАЦС",
+      "keywords": ""
+    },
+    {
+      "id": "poi_market",
+      "name": "Ринки",
+      "singlename": "Ринок",
+      "keywords": ""
+    },
+    {
+      "id": "poi_supermarket",
+      "name": "Супермаркети",
+      "singlename": "Супермаркет",
+      "keywords": ""
+    },
+    {
+      "id": "poi_hospital",
+      "name": "Лікарні, шпиталі",
+      "singlename": "Лікарня, шпиталь",
+      "keywords": ""
+    },
+    {
+      "id": "poi_laboratory_centre",
+      "name": "Лабораторії",
+      "singlename": "Лабораторія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_stomatology",
+      "name": "Стоматологія",
+      "singlename": "Стоматологія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_medical_centre_diagnostic",
+      "name": "Медцентри, діагностика",
+      "singlename": "Медцентр, діагностика",
+      "keywords": ""
+    },
+    {
+      "id": "poi_policlinic",
+      "name": "Поліклініки",
+      "singlename": "Поліклініка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_maternity_hospital",
+      "name": "Пологові будинки",
+      "singlename": "Пологовий будинок",
+      "keywords": ""
+    },
+    {
+      "id": "poi_pharmacy",
+      "name": "Аптеки",
+      "singlename": "Аптека",
+      "keywords": ""
+    },
+    {
+      "id": "poi_emergency_first_aid_station",
+      "name": "Швидка допомога, травмпункти",
+      "singlename": "Швидка допомога, травмпункт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_higher_educational_establishment",
+      "name": "Вищі навчальні заклади",
+      "singlename": "Вищий навчальний заклад",
+      "keywords": ""
+    },
+    {
+      "id": "poi_technical_school",
+      "name": "Технікуми",
+      "singlename": "Технікум",
+      "keywords": ""
+    },
+    {
+      "id": "poi_art_school_centre_studio",
+      "name": "Школи мистецтв, центри, студії",
+      "singlename": "Школа мистецтв, центр, студія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_musical_school",
+      "name": "Школи музичні",
+      "singlename": "Школа музикальна",
+      "keywords": ""
+    },
+    {
+      "id": "poi_general_education_school_gymnasia_lyceum",
+      "name": "Школи загальноосвітні, гімназії, ліцеї",
+      "singlename": "Школа загальноосвітня, гімназія, ліцей",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sport_school",
+      "name": "Школи спортивні",
+      "singlename": "Школа спортивна",
+      "keywords": ""
+    },
+    {
+      "id": "poi_other_school",
+      "name": "Інші школи",
+      "singlename": "Інша школа",
+      "keywords": ""
+    },
+    {
+      "id": "poi_specialized_school",
+      "name": "Училища",
+      "singlename": "Училище",
+      "keywords": ""
+    },
+    {
+      "id": "poi_hobby_group_circle_school",
+      "name": "Секції, кружки, студії",
+      "singlename": "Секція, кружок, студія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_state_administration",
+      "name": "Держадміністрації",
+      "singlename": "Держадміністрація",
+      "keywords": ""
+    },
+    {
+      "id": "poi_del_finariy",
+      "name": "Дельфінарії",
+      "singlename": "Дельфінарій",
+      "keywords": ""
+    },
+    {
+      "id": "poi_zoo",
+      "name": "Зоопарк",
+      "singlename": "Зоопарк",
+      "keywords": ""
+    },
+    {
+      "id": "poi_public_prosecutor_office",
+      "name": "Прокуратури",
+      "singlename": "Прокуратура",
+      "keywords": ""
+    },
+    {
+      "id": "poi_court",
+      "name": "Суди",
+      "singlename": "Суд",
+      "keywords": ""
+    },
+    {
+      "id": "poi_customs",
+      "name": "Пункти митного контролю",
+      "singlename": "Пункт митного контролю",
+      "keywords": ""
+    },
+    {
+      "id": "poi_foreign_company_representative",
+      "name": "Представництва міжнародних організацій",
+      "singlename": "Представництво міжнародної організації",
+      "keywords": ""
+    },
+    {
+      "id": "poi_beache",
+      "name": "Пляжі",
+      "singlename": "Пляж",
+      "keywords": ""
+    },
+    {
+      "id": "poi_circus",
+      "name": "Цирк",
+      "singlename": "Цирк",
+      "keywords": ""
+    },
+    {
+      "id": "poi_stadium",
+      "name": "Стадіони",
+      "singlename": "Стадіон",
+      "keywords": ""
+    },
+    {
+      "id": "poi_doctor_s_advice_by_phone",
+      "name": "Медконсультації по телефону",
+      "singlename": "Медконсультація по телефону",
+      "keywords": ""
+    },
+    {
+      "id": "poi_bus",
+      "name": "Автобусна зупинка",
+      "singlename": "Автобусна зупинка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_night_club",
+      "name": "Нічні клуби",
+      "singlename": "Нічний клуб",
+      "keywords": ""
+    },
+    {
+      "id": "poi_race_cours",
+      "name": "Іподроми",
+      "singlename": "Іподром",
+      "keywords": ""
+    },
+    {
+      "id": "poi_church_cathedral_monastery",
+      "name": "Церкви, собори, монастирі",
+      "singlename": "Церква, собор, монастир",
+      "keywords": ""
+    },
+    {
+      "id": "poi_diving",
+      "name": "Дайвінг",
+      "singlename": "Дайвінг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_fitness_sporting_hall",
+      "name": "Фітнес, спортивні зали",
+      "singlename": "Фітнес, спортивний зал",
+      "keywords": ""
+    },
+    {
+      "id": "poi_history_of_the_area",
+      "name": "Історія місцевості",
+      "singlename": "Історія місцевості",
+      "keywords": ""
+    },
+    {
+      "id": "poi_entertaining_complex",
+      "name": "Розважальні комплекси",
+      "singlename": "Розважальний комплекс",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tennis",
+      "name": "Теніс",
+      "singlename": "Теніс",
+      "keywords": ""
+    },
+    {
+      "id": "poi_bowling",
+      "name": "Боулінг",
+      "singlename": "Боулінг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_billiards",
+      "name": "Більярд",
+      "singlename": "Більярд",
+      "keywords": ""
+    },
+    {
+      "id": "poi_golf",
+      "name": "Гольф",
+      "singlename": "Гольф",
+      "keywords": ""
+    },
+    {
+      "id": "poi_skating_site",
+      "name": "Каток",
+      "singlename": "Каток",
+      "keywords": ""
+    },
+    {
+      "id": "poi_other_type_of_sport",
+      "name": "Інші види спорту",
+      "singlename": "Інший вид спорту",
+      "keywords": ""
+    },
+    {
+      "id": "poi_rollerdrome_go_cart_track",
+      "name": "Роллердроми, картодроми",
+      "singlename": "Роллердром, картодром",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tourist_boat",
+      "name": "Прогулянкові катера",
+      "singlename": "Прогулянковий катер",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tourist_bus",
+      "name": "Ескурсійні автобуси",
+      "singlename": "Ескурсійний автобус",
+      "keywords": ""
+    },
+    {
+      "id": "poi_monument_of_nature",
+      "name": "Пам'ятники природи",
+      "singlename": "Пам'ятник природи",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tourist_information_center",
+      "name": "Туристичні інформаційні центри",
+      "singlename": "Туристичний інформаційний центр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_tourist_objects",
+      "name": "Туристичні об'єкти",
+      "singlename": "Туристичний об'єкт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_observational_ground",
+      "name": "Оглядові площадки",
+      "singlename": "Оглядова площадка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_skiing_snowboarding",
+      "name": "Лижі, сноубординг",
+      "singlename": "Лижі, сноубординг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_speleo_and_mountain_tourism",
+      "name": "Спелео і гірський туризм",
+      "singlename": "Спелео і гірський туризм",
+      "keywords": ""
+    },
+    {
+      "id": "poi_yachting_sailing",
+      "name": "Яхтінг, парусний спорт",
+      "singlename": "Яхтінг, парусний спорт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_motosport",
+      "name": "Авто-, мотоспорт",
+      "singlename": "Авто-, мотоспорт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_skydiving",
+      "name": "Стрибки з парашутом",
+      "singlename": "Стрибки з парашутом",
+      "keywords": ""
+    },
+    {
+      "id": "poi_organizetors_of_outdoor_activities",
+      "name": "Организатори активного відпочинку та туризму",
+      "singlename": "Организатор активного відпочинку та туризму",
+      "keywords": ""
+    },
+    {
+      "id": "poi_other_types_of_outdoor_activities",
+      "name": "Інші види активного відпочинку",
+      "singlename": "Інший вид активного відпочинку",
+      "keywords": ""
+    },
+    {
+      "id": "poi_eco_tourism",
+      "name": "Зелений туризм",
+      "singlename": "Зелений туризм",
+      "keywords": ""
+    },
+    {
+      "id": "poi_travel_agency",
+      "name": "Туристичні агентства",
+      "singlename": "Туристичні агентства",
+      "keywords": ""
+    },
+    {
+      "id": "poi_hunting_forest_and_fish_growing_base",
+      "name": "Мисливські, лісові та рибальські господарства, бази",
+      "singlename": "Мисливське, лісове та рибальське господарство, база",
+      "keywords": ""
+    },
+    {
+      "id": "poi_organization_of_hunters_and_fishermen",
+      "name": "Організації мисливців та рибалок",
+      "singlename": "Організація мисливців та рибалок",
+      "keywords": ""
+    },
+    {
+      "id": "poi_statue",
+      "name": "Пам'ятники монументального мистецтва",
+      "singlename": "Пам'ятник монументального мистецтва",
+      "keywords": ""
+    },
+    {
+      "id": "poi_shop_for_hunters_and_fishermen",
+      "name": "Магазини мисливців та рибалок",
+      "singlename": "Магазин мисливців та рибалок",
+      "keywords": ""
+    },
+    {
+      "id": "poi_camping",
+      "name": "Кемпінги",
+      "singlename": "Кемпінг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_rental_of_sporting_inventory",
+      "name": "Прокат спортивного інвентарю",
+      "singlename": "Прокат спортивного інвентарю",
+      "keywords": ""
+    },
+    {
+      "id": "poi_rope_road",
+      "name": "Канатні дороги",
+      "singlename": "Канатна дорога",
+      "keywords": ""
+    },
+    {
+      "id": "poi_electric_vehicle_charging_station",
+      "name": "Пункти підзарядки електромобілів",
+      "singlename": "Пункт підзарядки електромобілів",
+      "keywords": ""
+    },
+    {
+      "id": "poi_historical_monument",
+      "name": "Пам'ятники історичні",
+      "singlename": "Пам'ятник історичний",
+      "keywords": ""
+    },
+    {
+      "id": "poi_archeological_monument",
+      "name": "Пам'ятники археологічні",
+      "singlename": "Пам'ятник археологічний",
+      "keywords": ""
+    },
+    {
+      "id": "poi_monument_of_park_art",
+      "name": "Пам'ятники садово-паркового мистецтва",
+      "singlename": "Пам'ятник садово-паркового мистецтва",
+      "keywords": ""
+    },
+    {
+      "id": "poi_clothes_e",
+      "name": "Одяг",
+      "singlename": "Одяг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_shoe_shop_e",
+      "name": "Взуття",
+      "singlename": "Взуття",
+      "keywords": ""
+    },
+    {
+      "id": "poi_automotive_shop_e",
+      "name": "Автомагазини",
+      "singlename": "Автомагазин",
+      "keywords": ""
+    },
+    {
+      "id": "poi_work_of_art_e",
+      "name": "Арт галереї",
+      "singlename": "Арт галерея",
+      "keywords": ""
+    },
+    {
+      "id": "poi_antiques_e",
+      "name": "Антикваріат",
+      "singlename": "Антикваріат",
+      "keywords": ""
+    },
+    {
+      "id": "poi_houshold_appliances_and_electronics_e",
+      "name": "Побутова техніка та електроніка",
+      "singlename": "Побутова техніка та електроніка",
+      "keywords": ""
+    },
+    {
+      "id": "poi_goods_for_children_e",
+      "name": "Товари для дітей",
+      "singlename": "Товари для дітей",
+      "keywords": ""
+    },
+    {
+      "id": "poi_clothes_and_accessories_e",
+      "name": "Тканини та фурнітура",
+      "singlename": "Тканини та фурнітура",
+      "keywords": ""
+    },
+    {
+      "id": "poi_household_textile_e",
+      "name": "Домашній текстиль",
+      "singlename": "Домашній текстиль",
+      "keywords": ""
+    },
+    {
+      "id": "poi_furniture_e",
+      "name": "Меблі",
+      "singlename": "Меблі",
+      "keywords": ""
+    },
+    {
+      "id": "poi_parfumes_and_houshold_chemicals_e",
+      "name": "Парфумерія та побутова хімія",
+      "singlename": "Парфумерія та побутова хімія",
+      "keywords": ""
+    },
+    {
+      "id": "poi_jewelry_shop_e",
+      "name": "Ювелірні",
+      "singlename": "Ювелірний",
+      "keywords": ""
+    },
+    {
+      "id": "poi_grocery_e",
+      "name": "Продуктові",
+      "singlename": "Продуктовий",
+      "keywords": ""
+    },
+    {
+      "id": "poi_fruit_and_vegetable_store_e",
+      "name": "Сад та город",
+      "singlename": "Сад та город",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sport_shops_e",
+      "name": "Спорттовари",
+      "singlename": "Спорттовари",
+      "keywords": ""
+    },
+    {
+      "id": "poi_building_materials_e",
+      "name": "Будматеріали",
+      "singlename": "Будматеріали",
+      "keywords": ""
+    },
+    {
+      "id": "poi_decor_and_gift",
+      "name": "Подарунків, декор",
+      "singlename": "Подарунків, декор",
+      "keywords": ""
+    },
+    {
+      "id": "poi_hostel",
+      "name": "Гуртожитки",
+      "singlename": "Гуртожиток",
+      "keywords": "проживание, жилье помешкання"
+    },
+    {
+      "id": "poi_underground_railway_station",
+      "name": "Станції метро",
+      "singlename": "Станція метро",
+      "keywords": ""
+    },
+    {
+      "id": "poi_decor_and_gift_e",
+      "name": "Подарунків, декор",
+      "singlename": "Подарунків, декор",
+      "keywords": ""
+    },
+    {
+      "id": "poi_fast_food",
+      "name": "Фаст-фуд",
+      "singlename": "Фаст-фуд",
+      "keywords": "еда їжа, страви"
+    },
+    {
+      "id": "poi_real_estate_agencies",
+      "name": "Агенства нерухомості",
+      "singlename": "Агенство нерухомості",
+      "keywords": ""
+    },
+    {
+      "id": "poi_cafe_bar",
+      "name": "Кафе, бари",
+      "singlename": "Кафе, бар",
+      "keywords": "еда їжа, страви food"
+    },
+    {
+      "id": "poi_pizza_restaurant",
+      "name": "Піцерії",
+      "singlename": "Піцерія",
+      "keywords": "еда їжа, страви food"
+    },
+    {
+      "id": "poi_books_stationery_e",
+      "name": "Книги, канцтовари",
+      "singlename": "Книги, канцтовари",
+      "keywords": ""
+    },
+    {
+      "id": "poi_books_stationery",
+      "name": "Книги, канцтовари",
+      "singlename": "Книги, канцтовари",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sanatorium",
+      "name": "Санаторії",
+      "singlename": "Санаторій",
+      "keywords": ""
+    },
+    {
+      "id": "poi_recreation_camp_boarding_house",
+      "name": "Бази відпочинку, пансіонати",
+      "singlename": "База відпочинку, пансіонат",
+      "keywords": ""
+    },
+    {
+      "id": "poi_pet_shop",
+      "name": "Зоомагазини",
+      "singlename": "Зоомагазин",
+      "keywords": ""
+    },
+    {
+      "id": "poi_hang_gliding",
+      "name": "Дельта-парапланеризм",
+      "singlename": "Дельта-парапланеризм",
+      "keywords": ""
+    },
+    {
+      "id": "poi_palaces_and_community_centres",
+      "name": "Палаци та будинки культури",
+      "singlename": "Палац та будинок культури",
+      "keywords": ""
+    },
+    {
+      "id": "poi_motor_licencing_inspection",
+      "name": "ДАІ",
+      "singlename": "ДАІ",
+      "keywords": ""
+    },
+    {
+      "id": "poi_centres_sai",
+      "name": "Центри ДАІ, МРЕВ",
+      "singlename": "Центр ДАІ, МРЕВ",
+      "keywords": "МРЕО, МРЭО МРЕВ"
+    },
+    {
+      "id": "poi_mound",
+      "name": "Городище",
+      "singlename": "Городище",
+      "keywords": ""
+    },
+    {
+      "id": "poi_chronicle city",
+      "name": "Літописне місто",
+      "singlename": "Літописне місто",
+      "keywords": ""
+    },
+    {
+      "id": "poi_settlement",
+      "name": "Поселення",
+      "singlename": "Поселення",
+      "keywords": ""
+    },
+    {
+      "id": "poi_burial_mound",
+      "name": "Курганний могильник",
+      "singlename": "Курганний могильник",
+      "keywords": ""
+    },
+    {
+      "id": "poi_ground_burial",
+      "name": "Грунтовий могильник",
+      "singlename": "Грунтовий могильник",
+      "keywords": ""
+    },
+    {
+      "id": "poi_police_station",
+      "name": "Відділення поліції",
+      "singlename": "Відділення поліції",
+      "keywords": ""
+    },
+    {
+      "id": "poi_petrol_station",
+      "name": "АЗС",
+      "singlename": "АЗС",
+      "keywords": "заправка, заправки заправка"
+    },
+    {
+      "id": "poi_gas_filling_station",
+      "name": "АЗС газові",
+      "singlename": "АЗС газова",
+      "keywords": "заправка, заправки"
+    },
+    {
+      "id": "poi_government_agencies_and_enterprises",
+      "name": "Державні установи та підприємства",
+      "singlename": "Державна установа та підприемство",
+      "keywords": ""
+    },
+    {
+      "id": "poi_park_square",
+      "name": "Парки, сквери",
+      "singlename": "Парк, сквер",
+      "keywords": ""
+    },
+    {
+      "id": "poi_cinema",
+      "name": "Кінотеатри",
+      "singlename": "Кінотеатр",
+      "keywords": "кино кіно"
+    },
+    {
+      "id": "poi_hotel_and_motel",
+      "name": "Готелі та мотелі",
+      "singlename": "Готель та мотель",
+      "keywords": "отель отели"
+    },
+    {
+      "id": "poi_ethno_object",
+      "name": "Етнічні об'єкти",
+      "singlename": "Етнічний об'єкт",
+      "keywords": ""
+    },
+    {
+      "id": "poi_dendropark",
+      "name": "Дендропарки, ліси",
+      "singlename": "Дендропарки, ліс",
+      "keywords": ""
+    },
+    {
+      "id": "poi_boarding_houses",
+      "name": "Будинки-інтернати",
+      "singlename": "Будинок-інтернат",
+      "keywords": ""
+    },
+    {
+      "id": "poi_center_of_social_services",
+      "name": "Центри соціального обслуговування",
+      "singlename": "Центр соціального обслуговування",
+      "keywords": ""
+    },
+    {
+      "id": "poi_rehabilitation_center",
+      "name": "Реабілітаційні центри",
+      "singlename": "реабілітаційний центр",
+      "keywords": ""
+    },
+    {
+      "id": "poi_children_recreation_activities",
+      "name": "Відпочинок для дітей",
+      "singlename": "Відпочинок для дітей",
+      "keywords": ""
+    },
+    {
+      "id": "poi_sport_shops",
+      "name": "Спорттовари",
+      "singlename": "Спорттовари",
+      "keywords": ""
+    },
+    {
+      "id": "poi_industrial_enterprise",
+      "name": "Промислови ідприємства",
+      "singlename": "Промислове ідприємство",
+      "keywords": ""
+    },
+    {
+      "id": "poi_airport_terminal",
+      "name": "Термінали аеропорта",
+      "singlename": "Термін алаеропорта",
+      "keywords": ""
+    },
+    {
+      "id": "poi_household_goods",
+      "name": "Господарські товари",
+      "singlename": "Господарські товари",
+      "keywords": ""
+    },
+    {
+      "id": "poi_coworking",
+      "name": "Коворкінг",
+      "singlename": "Коворкінг",
+      "keywords": ""
+    },
+    {
+      "id": "poi_electro_station",
+      "name": "ЕЗС",
+      "singlename": "ЕЗС",
+      "keywords": "електрозарядна станція, станція зарядки електромобілів Electric Vehicle Supply Equipment"
+    },
+    {
+      "id": "poi_tram",
+      "name": "Трамвайна зупинка",
+      "singlename": "Трамвайна зупинка",
+      "keywords": ""
+    },
+    {
+      "id": "adr_address",
+      "name": "Адреси",
+      "singlename": "Адреса",
+      "keywords": ""
+    },
+    {
+      "id": "adr_street",
+      "name": "Вулиці",
+      "singlename": "Вулиця",
+      "keywords": ""
+    },
+    {
+      "id": "adm_settlement",
+      "name": "Населені пункти",
+      "singlename": "Населений пункт",
+      "keywords": ""
+    },
+    {
+      "id": "adm_country",
+      "name": "Країни",
+      "singlename": "Країна",
+      "keywords": ""
+    },
+    {
+      "id": "adm_level1",
+      "name": "Перший рівень адміністративно-тереторіального ділення країни",
+      "singlename": "Перший рівень адміністративно-тереторіального ділення країни",
+      "keywords": ""
+    },
+    {
+      "id": "adm_level2",
+      "name": "Другий рівень адміністративно-тереторіального ділення країни",
+      "singlename": "Другий рівень адміністративно-тереторіального ділення країни",
+      "keywords": ""
+    },
+    {
+      "id": "adm_level3",
+      "name": "Третій рівень адміністративно-тереторіального ділення країни",
+      "singlename": "Третій рівень адміністративно-тереторіального ділення країни",
+      "keywords": ""
+    },
+    {
+      "id": "adm_district",
+      "name": "Райони міста",
+      "singlename": "Район міста",
+      "keywords": ""
+    },
+    {
+      "id": "adm_place",
+      "name": "Межі дачних селищ",
+      "singlename": "Межі дачних селищ",
+      "keywords": ""
+    },
+    {
+      "id": "hst_district",
+      "name": "Історично сформовані райони міста",
+      "singlename": "Історично сформовані райони міста",
+      "keywords": ""
+    },
+    {
+      "id": "roa_road",
+      "name": "Головні шляхи",
+      "singlename": "Шлях",
+      "keywords": ""
+    }
+  ]
+}
